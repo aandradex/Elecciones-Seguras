@@ -1,10 +1,10 @@
 
-**El Proceso Electoral**
+# **El Proceso Electoral**
 
 El proceso electoral es organizado por el Tribunal Supremo Electoral, como una entidad autónoma, administrada por un consejo ciudadano compuesto por su presidente y sus Vocales, quienes deben actuar siempre con certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad; quienes se manejarán de acuerdo con lo que dispone la Constitución Política de Estado (CPE) y Código Electoral Boliviano.
 
 
-**El software Electoral**
+# **El software Electoral**
 
 **Código Fuente o Licencia de Software**
 
@@ -65,7 +65,7 @@ La capacitación o transmisión de conocimiento es otro de los factores primordi
 - Las capacitaciones deben incluir varios simulacros, para identificar posibles fallas o malas configuraciones del software electoral.
 - Las capacitaciones deben cubrir al 100% del personal y operadores que participaran del proceso electoral.
 
-**El Hardware Electoral**
+# **El Hardware Electoral**
 
 **Infraestructura Local**
 
@@ -91,7 +91,7 @@ Por temas de Jurisdicción y competencia ante cualquier eventualidad donde el go
 - El proveedor de la Nube Pública o Privada, provea tanto soluciones bajo licenciamiento como soluciones de Software Libre dentro sus servicios
 - El proveedor de la Nube Pública o Privada, provea un servicio de Soporte 24/7 especialmente para todo el proceso electoral
 
-**Ciberseguridad y Monitoreo**
+# **Ciberseguridad y Monitoreo**
 
 **Previo a las Elecciones**
 
@@ -132,7 +132,7 @@ Como parte de las tareas posteriores a las elecciones electorales se recomiendan
 - Validar que se cumplan todos los protocolos y controles de seguridad implementados
 
 
-**Transporte de Actas Físicas**
+# **Transporte de Actas Físicas**
 
 Es obligación del Tribunal Electoral brindar las medidas necesarias para proteger el transporte de las Actas Físicas, por lo cual presentamos algunas recomendaciones:
 
@@ -143,7 +143,7 @@ Es obligación del Tribunal Electoral brindar las medidas necesarias para proteg
 - Mejorar la seguridad de los sobres precintados para el transporte de actas
 
 
-**Consideración De Tiempos**
+# **Consideración De Tiempos**
 
 Algunas recomendaciones de tiempos a tomar en cuenta para una correcta implementación de un proceso electoral:
 
@@ -153,7 +153,7 @@ Algunas recomendaciones de tiempos a tomar en cuenta para una correcta implement
 - Realizar las pruebas de funcionalidad por lo menos un mes antes con frecuencias de 4 veces por semana.
 
 
-**El Equipo Técnico**
+# **El Equipo Técnico**
 
 Consideramos que es primordial para acortar la brecha de aprendizaje, un equipo con un alto grado de conocimiento técnico que pueda facilitar tanto la transmisión de conocimiento hacia los operadores del software electoral, cómo la implementación, configuración y despliegue de capacidades hasta la puesta en marcha de todo el proceso de votación electoral.
 
@@ -168,7 +168,7 @@ Este equipo debe contar con expertos en ciertas áreas tecnológicas como ser:
 - DevOps
 
 
-**Disclaimer Legal**
+# **Disclaimer Legal**
 
 El presente documento no pretende ser una guía oficial para llevar acabo un proceso electoral, sino un conjunto de directrices y recomendaciones que por nuestra experiencia y únicamente desde nuestro punto de vista vemos necesarias para brindar mas confianza y seguridad a un proceso electoral.
 
