@@ -1,5 +1,5 @@
 # Elecciones-Seguras
-**Guía de Recomendaciones para unas Elecciones Seguras**
+**Guía de Recomendaciones de Seguridad para Procesos Electorales**
 
 Este documento pretende dar una serie de lineamientos y recomendaciones que consideramos importantes para llevar acabo unas elecciones con un nivel de seguridad recomendable y genere confiabilidad de los resultados.
 
