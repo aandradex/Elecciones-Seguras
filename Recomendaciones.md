@@ -1,12 +1,12 @@
 
-El Proceso Electoral
+**El Proceso Electoral**
 
 El proceso electoral es organizado por el Tribunal Supremo Electoral, como una entidad autónoma, administrada por un consejo ciudadano compuesto por su presidente y sus Vocales, quienes deben actuar siempre con certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad; quienes se manejarán de acuerdo con lo que dispone la Constitución Política de Estado (CPE) y Código Electoral Boliviano.
 
 
-El software Electoral
+**El software Electoral**
 
-Código Fuente o Licencia de Software
+**Código Fuente o Licencia de Software**
 
 En caso de que el software sea, desarrollo propio o desarrollo tercializado, se recomienda contar siempre que se pueda, con el código fuente para poder darle soporte al mismo, mejorarlo, actualizarlo o para tareas de auditoría de código seguro.
 
@@ -17,7 +17,7 @@ En caso de que se adquiera una licencia de uso de un software electoral el mismo
 Otra opción es el Software Open Source para procesos electorales, donde el componente de seguridad es auditado y testeado por una gran cantidad de desarrolladores. uno de los inconvenientes es que debe implementarse por lo menos con 4 a 6 meses previos a las elecciones ya que requiere bastante configuración, adecuación y pruebas de funcionalidad para que se adecue a cada proceso electoral específico.
 
 
-Características del Software Electoral
+**Características del Software Electoral**
 
 Cualquier software electoral que se desee utilizar, debe contribuir a crear elecciones rápidas, flexibles y exactas. Que permita identificar comportamientos sospechosos o fraudulentos de forma sencilla, controlar grandes cantidades de información con facilidad y exactitud, preservando siempre la disponibilidad, trazabilidad, integridad y seguridad de la información almacenada.
 
@@ -34,7 +34,7 @@ El software electoral que se utilice debería apoyar mínimamente en los siguien
 - Auditoría
 
 
-Componentes de Seguridad del Software Electoral
+**Componentes de Seguridad del Software Electoral**
 
 Cualquier software electoral que se desee utilizar, debe cumplir con las siguientes recomendaciones de Seguridad para considerarse apto para manejar cualquier tipo de proceso electoral:
 
@@ -54,7 +54,7 @@ Cualquier software electoral que se desee utilizar, debe cumplir con las siguien
 - Balanceadores de Carga
 - Protección anti Denegación de Servicios
 
-Capacitación
+**Capacitación**
 
 La capacitación o transmisión de conocimiento es otro de los factores primordiales al momento de escoger un software electoral ya que la empresa propietaria o desarrolladora deberá garantizar la correcta capacitación al personal del Tribunal Electoral para que estos puedan administrar al 100% todo el proceso electoral y que la empresa desarrolladora solamente brinde tareas de soporte o mantenimiento a la plataforma:
 
@@ -65,9 +65,9 @@ La capacitación o transmisión de conocimiento es otro de los factores primordi
 - Las capacitaciones deben incluir varios simulacros, para identificar posibles fallas o malas configuraciones del software electoral.
 - Las capacitaciones deben cubrir al 100% del personal y operadores que participaran del proceso electoral.
 
-El Hardware Electoral
+**El Hardware Electoral**
 
-Infraestructura Local
+**Infraestructura Local**
 
 Por temas de Administración, mantenimiento, soporte y sobre todo seguridad, la infraestructura de servidores, redes y comunicaciones, debe estar dentro del mismo Data Center del Tribunal Electoral, para lo cual se deben considerar los siguientes aspectos:
 
@@ -79,9 +79,9 @@ Por temas de Administración, mantenimiento, soporte y sobre todo seguridad, la 
 - Configuración de Port Mirroring con cada computadora autorizada en cada TED.
 - Comunicación únicamente por VPN’s con cada TED
 
-Infraestructura Cloud
+**Infraestructura Cloud**
 
-Jurisdicción y Competencia
+**Jurisdicción y Competencia**
 
 Por temas de Jurisdicción y competencia ante cualquier eventualidad donde el gobierno, un organismo internacional o una empresa de auditoría, necesiten acceder a los Registros de Eventos (Logs) de los servidores utilizados en la elección se recomienda que:
 
@@ -91,9 +91,9 @@ Por temas de Jurisdicción y competencia ante cualquier eventualidad donde el go
 - El proveedor de la Nube Pública o Privada, provea tanto soluciones bajo licenciamiento como soluciones de Software Libre dentro sus servicios
 - El proveedor de la Nube Pública o Privada, provea un servicio de Soporte 24/7 especialmente para todo el proceso electoral
 
-Ciberseguridad y Monitoreo
+**Ciberseguridad y Monitoreo**
 
-Previo a las Elecciones
+**Previo a las Elecciones**
 
 Como parte de las tareas preparatorias para las elecciones electorales se recomiendan las siguientes tareas:
 
@@ -106,7 +106,7 @@ Como parte de las tareas preparatorias para las elecciones electorales se recomi
 - Validar que los controles de seguridad implementados no entran en conflicto con el software electoral
 - Ejecutar protocolo de Seguridad en servidores y BBDD para inicio de la Votación Electoral
 
-Durante las Elecciones
+**Durante las Elecciones**
 
 Como parte de las tareas a ejecutarse durante las elecciones electorales se recomiendan las siguientes tareas:
 
@@ -121,7 +121,7 @@ Como parte de las tareas a ejecutarse durante las elecciones electorales se reco
 - Monitoreo persistente de integridad de configuraciones
 - Puesta en ejecución del Plan de Comunicación y notificación Interna
 
-Después de las Elecciones
+**Después de las Elecciones**
 
 Como parte de las tareas posteriores a las elecciones electorales se recomiendan las siguientes tareas:
 
@@ -132,7 +132,7 @@ Como parte de las tareas posteriores a las elecciones electorales se recomiendan
 - Validar que se cumplan todos los protocolos y controles de seguridad implementados
 
 
-Transporte de Actas Físicas
+**Transporte de Actas Físicas**
 
 Es obligación del Tribunal Electoral brindar las medidas necesarias para proteger el transporte de las Actas Físicas, por lo cual presentamos algunas recomendaciones:
 
@@ -143,7 +143,7 @@ Es obligación del Tribunal Electoral brindar las medidas necesarias para proteg
 - Mejorar la seguridad de los sobres precintados para el transporte de actas
 
 
-Consideración De Tiempos
+**Consideración De Tiempos**
 
 Algunas recomendaciones de tiempos a tomar en cuenta para una correcta implementación de un proceso electoral:
 
@@ -153,7 +153,7 @@ Algunas recomendaciones de tiempos a tomar en cuenta para una correcta implement
 - Realizar las pruebas de funcionalidad por lo menos un mes antes con frecuencias de 4 veces por semana.
 
 
-El Equipo Técnico
+**El Equipo Técnico**
 
 Consideramos que es primordial para acortar la brecha de aprendizaje, un equipo con un alto grado de conocimiento técnico que pueda facilitar tanto la transmisión de conocimiento hacia los operadores del software electoral, cómo la implementación, configuración y despliegue de capacidades hasta la puesta en marcha de todo el proceso de votación electoral.
 
@@ -168,8 +168,8 @@ Este equipo debe contar con expertos en ciertas áreas tecnológicas como ser:
 - DevOps
 
 
-Disclaimer Legal
+**Disclaimer Legal**
 
 El presente documento no pretende ser una guía oficial para llevar acabo un proceso electoral, sino un conjunto de directrices y recomendaciones que por nuestra experiencia y únicamente desde nuestro punto de vista vemos necesarias para brindar mas confianza y seguridad a un proceso electoral.
 
-Es por esta razón que deseamos compartir esta primer versión y el documento queda abierto a nuevas interpretaciones, correcciones o aportes de mejora desde el repositorio https://github.com/aandradex/Elecciones-Seguras o a través del correo info@ehcgroup.io  
+Es por esta razón que deseamos compartir esta primer versión y el documento queda abierto a nuevas interpretaciones, correcciones o aportes de mejora desde el repositorio <https://github.com/aandradex/Elecciones-Seguras> o a través del correo <info@ehcgroup.io>
